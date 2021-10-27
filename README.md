@@ -34,3 +34,10 @@ Pour le but pedagogique, nous générer un dataset sur ce site:
 
 ## Transformer les données 
 ![image 10](images/10.png)
+
+## Actualiser
+![image 11](images/11.png)
+
+## Contrôler les données
+![image 12](images/12.png)
+
