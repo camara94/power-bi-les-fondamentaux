@@ -41,3 +41,6 @@ Pour le but pedagogique, nous générer un dataset sur ce site:
 ## Contrôler les données
 ![image 12](images/12.png)
 
+## Calculer 
+![image 13](images/13.png)
+
