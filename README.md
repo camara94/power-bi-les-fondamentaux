@@ -56,3 +56,4 @@ Pour le but pedagogique, nous générer un dataset sur ce site:
 ![image 17](images/17.png)
 
 ## Conseil Pour Formaliser le besoin
+![image 18](images/18.png)
