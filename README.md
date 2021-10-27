@@ -28,3 +28,6 @@ Pour le but pedagogique, nous générer un dataset sur ce site:
 ## Methodologie de travail sous Power BI
 
 ![image 8](images/8.png)
+
+## Se connecter et Organiser ses données
+![image 9](images/9.png)
