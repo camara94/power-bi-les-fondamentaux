@@ -8,4 +8,6 @@ Microsoft Power BI est un service de Business Intelligence proposé par Microsof
 ![image 2](images/2.png)
 
 
-
+## Outil de Power BI
+![image 3](images/3.png)
+![image 4](images/4.png)
