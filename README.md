@@ -49,3 +49,5 @@ Pour le but pedagogique, nous générer un dataset sur ce site:
 
 ## Partager les données
 ![image 15](images/15.png)
+
+![image 16](images/16.png)
