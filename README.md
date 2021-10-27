@@ -62,3 +62,9 @@ Pour le but pedagogique, nous générer un dataset sur ce site:
 
 ## determiner les rélations
 ![image 26](images/26.png)
+
+## Quelques Exemple de formalisation 
+### Exemple 1
+![image 20](images/20.png)
+
+![image 21](images/21.png)
