@@ -17,3 +17,6 @@ Microsoft Power BI est un service de Business Intelligence proposé par Microsof
 
 ## Les Licences de Power BI
 ![image 6](images/6.png)
+
+## Obtenir Power BI
+![image 7](images/7.png)
