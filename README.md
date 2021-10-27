@@ -50,4 +50,9 @@ Pour le but pedagogique, nous générer un dataset sur ce site:
 ## Partager les données
 ![image 15](images/15.png)
 
+## Analyse avant de commencer à travailler
 ![image 16](images/16.png)
+
+![image 17](images/17.png)
+
+## Conseil Pour Formaliser le besoin
