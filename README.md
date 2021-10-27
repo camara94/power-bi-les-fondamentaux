@@ -59,3 +59,6 @@ Pour le but pedagogique, nous générer un dataset sur ce site:
 ![image 18](images/18.png)
 
 ![image 19](images/19.png)
+
+## determiner les rélations
+![image 26](images/26.png)
