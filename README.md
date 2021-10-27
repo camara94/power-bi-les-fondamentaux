@@ -68,3 +68,7 @@ Pour le but pedagogique, nous générer un dataset sur ce site:
 ![image 20](images/20.png)
 
 ![image 21](images/21.png)
+
+### Exemple 2
+
+![image 22](images/22.png)
