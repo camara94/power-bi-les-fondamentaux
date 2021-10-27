@@ -24,3 +24,7 @@ Microsoft Power BI est un service de Business Intelligence proposé par Microsof
 ## Fakename generator
 Pour le but pedagogique, nous générer un dataset sur ce site:
 [https://www.fakenamegenerator.com/order.php](https://www.fakenamegenerator.com/order.php)
+
+## Methodologie de travail sous Power BI
+
+![image 8](images/8.png)
