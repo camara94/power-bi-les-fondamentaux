@@ -31,3 +31,6 @@ Pour le but pedagogique, nous générer un dataset sur ce site:
 
 ## Se connecter et Organiser ses données
 ![image 9](images/9.png)
+
+## Transformer les données 
+![image 10](images/10.png)
