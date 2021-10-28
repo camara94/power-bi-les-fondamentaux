@@ -126,3 +126,6 @@ Référencé une mesure, c'est se servir d'une mesure pour créer une autre.
 
 ## Doc DAX
 [https://msdn.microsoft.com/en-us/library/ee634396.aspx](https://msdn.microsoft.com/en-us/library/ee634396.aspx)
+
+## Quelques courantes
+![image 37](images/37.png)
