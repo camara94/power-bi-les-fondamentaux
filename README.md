@@ -117,3 +117,9 @@ C'est important de créer une table dans laquelle il faut stocker les mesures qu
 ### Indentation
 
 ![image 35](images/35.png)
+
+### Référencement
+
+Référencé une mesure, c'est se servir d'une mesure pour créer une autre.
+
+![image 36](images/36.png)
