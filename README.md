@@ -84,3 +84,6 @@ Pour le but pedagogique, nous générer un dataset sur ce site:
 ### Exemple 5
 
 ![image 25](images/25.png)
+
+## Manière de faire une Transformation en Power BI
+![image 27](images/27.png)
