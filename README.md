@@ -90,3 +90,6 @@ Pour le but pedagogique, nous générer un dataset sur ce site:
 
 ## Contrôler la qualité de ses donées
 ![image 28](images/28.png)
+
+### Les 5 Contrôles à effectuer sur chaque champs clé
+![image 29](images/29.png)
