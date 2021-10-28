@@ -104,3 +104,8 @@ Pour le but pedagogique, nous générer un dataset sur ce site:
 ## Quelques bonne pratique en DAX
 ### Définir, documenter, suivre
 ![image 32](images/32.png)
+
+### Table des mesures
+C'est important de créer une table dans laquelle il faut stocker les mesures qui sert d'une sorte d'étager qu'on pourra récuperer après pour ne pas mélanger les mesures partout.
+
+![image 33](images/33.png)
