@@ -93,3 +93,6 @@ Pour le but pedagogique, nous générer un dataset sur ce site:
 
 ### Les 5 Contrôles à effectuer sur chaque champs clé
 ![image 29](images/29.png)
+
+## Manière de calculer en Power BI
+![image 30](images/30.png)
