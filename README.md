@@ -100,3 +100,7 @@ Pour le but pedagogique, nous générer un dataset sur ce site:
 ## DAX
 ## Etape de calcule en DAX
 ![image 31](images/31.png)
+
+## Quelques bonne pratique en DAX
+### Définir, documenter, suivre
+![image 32](images/32.png)
