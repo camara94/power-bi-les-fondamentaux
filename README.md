@@ -96,3 +96,7 @@ Pour le but pedagogique, nous générer un dataset sur ce site:
 
 ## Manière de calculer en Power BI
 ![image 30](images/30.png)
+
+## DAX
+## Etape de calcule en DAX
+![image 31](images/31.png)
