@@ -113,3 +113,7 @@ C'est important de créer une table dans laquelle il faut stocker les mesures qu
 ### Nommage Explicite
 
 ![image 34](images/34.png)
+
+### Indentation
+
+![image 35](images/35.png)
